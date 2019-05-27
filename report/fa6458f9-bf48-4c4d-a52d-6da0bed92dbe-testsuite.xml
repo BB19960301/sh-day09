@@ -1,24 +1,24 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1558926416453" stop="1558926416460">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1558926765309" stop="1558926765314">
   <name>test_02</name>
   <labels/>
   <test-cases>
-    <test-case start="1558926416453" status="passed" stop="1558926416460">
+    <test-case start="1558926765309" status="passed" stop="1558926765314">
       <name>TestOne.test_01</name>
       <attachments/>
       <labels>
         <label name="severity" value="blocker"/>
-        <label name="thread" value="14688-MainThread"/>
+        <label name="thread" value="14736-MainThread"/>
         <label name="host" value="PC-201901111919"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps>
-        <step start="1558926416460" status="passed" stop="1558926416460">
+        <step start="1558926765314" status="passed" stop="1558926765314">
           <name>测试打印123456</name>
           <title>测试打印123456</title>
           <attachments>
-            <attachment source="325005b2-91cd-406a-84a2-6d86044c1ce7-attachment.txt" title="测试打印成功" type="text/plain"/>
-            <attachment source="0fb4545d-991d-4c89-9e80-d03c111dba2f-attachment.jpg" title="截图" type="image/jpg"/>
+            <attachment source="57c4dbd9-704c-4473-996e-9464f29e3aec-attachment.txt" title="测试打印成功" type="text/plain"/>
+            <attachment source="570545f0-fed5-4d47-aac8-f9c84412ef0f-attachment.jpg" title="截图" type="image/jpg"/>
           </attachments>
           <steps/>
         </step>
